@@ -28,4 +28,4 @@ Para trabajar con la modalidad de vista 'POS', sigue los siguientes pasos:
 
 1. **Seleccionar el Producto disponible**: Puedes elegir el producto directamente desde la lista visible o buscarlo por su código, si lo conoces, para encontrarlo rápidamente.
 2. **Proceder con el cobro**: Una vez seleccionados los productos, haz clic en el botón **"Cobrar"** para continuar con el proceso de pago.
-    - **Descuento opcional**: Antes de realizar el cobro, si lo deseas, puedes aplicar un descuento al total de la venta. Esta acción es opcional y se puede realizar según lo que corresponda a la transacción.
+    - **Descuento opcional**: Antes de realizar el cobro, si lo deseas, puedes aplicar un descuento al total de la venta. Esta acción es opcional y se puede realizar según lo que corresponda a la transacción.andrea
