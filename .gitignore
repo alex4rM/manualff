@@ -1,0 +1,8 @@
+/node_modules
+
+#VuePress cache and temporary files
+/docs/.vuepress/.cache
+/docs/.vuepress/.temp
+
+# Build output
+/docs/.vuepress/dist
