@@ -62,11 +62,58 @@ export default defineUserConfig({
           ],
         },
         {
+          text: 'Configuraciones',
+          collapsible: true,
+          children: [
+            '/guide/configuraciones/a_logo.md',
+            '/guide/configuraciones/b_canalesVenta.md',
+            '/guide/configuraciones/c_unidadesMed.md',
+            '/guide/configuraciones/d_sucursales.md',
+            '/guide/configuraciones/e_almacenes.md',
+            '/guide/configuraciones/f_terminosPago.md',
+            '/guide/configuraciones/g_metodosPago.md',
+            '/guide/configuraciones/h_usuarios.md',
+            '/guide/configuraciones/i_rolesPerm.md',
+            '/guide/configuraciones/j_terminales.md',
+            '/guide/configuraciones/k_configuraciones.md',
+            '/guide/configuraciones/l_integrarSunat.md',
+            '/guide/configuraciones/m_apiToken.md',
+
+
+          ],
+        },
+        {
           text: 'Caja',
           collapsible: true,
           children: [
             '/guide/caja/a_cajaActual.md',
             '/guide/caja/b_cierreCaja.md',
+
+          ],
+        },
+        {
+          text: 'Movimientos',
+          collapsible: true,
+          children: [
+            '/guide/movimientos/movimientos.md',
+
+          ],
+        },
+        {
+          text: 'Productos',
+          collapsible: true,
+          children: [
+            '/guide/productos/a_miInventario.md',
+            '/guide/productos/b_productos.md',
+            '/guide/productos/c_categorias.md',
+            '/guide/productos/d_marcas.md',
+            '/guide/productos/e_codigoBarras.md',
+            '/guide/productos/f_importar.md',
+            '/guide/productos/g_actualizarProductos.md',
+            '/guide/productos/h_actualizarStock.md',
+            '/guide/productos/i_guiasRemision.md',
+            '/guide/productos/j_transferencias.md',
+            '/guide/productos/k_ajustes.md',
 
           ],
         },
