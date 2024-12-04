@@ -1,2 +1,0 @@
-# Compras
-Contenido de compras
