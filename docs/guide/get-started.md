@@ -2,7 +2,7 @@
 
 Puntos importantes del sistema
 
---Videos--
+# Videos 
 
 
 ## Crear una Nueva Compra
@@ -43,7 +43,7 @@ Puntos importantes del sistema
 </div>
 
 
-
+<!--
 - [Primer Paso](./ventas/primer.md)
 - [Segundo Paso](./ventas/segundo.md)
-- [Tercer Paso](./ventas/tercero.md)
+- [Tercer Paso](./ventas/tercero.md)  -->

@@ -5,11 +5,11 @@ import { viteBundler } from '@vuepress/bundler-vite'
 export default defineUserConfig({
   lang: 'es-PE',
 
-  title: 'FasterFacturas',
-  description: 'Manual de usuario para el sistema FasterFacturas',
+  title: 'FasterFacturas GOLD',
+  description: 'Manual de usuario para el sistema FasterFacturas GOLD',
 
   theme: defaultTheme({
-    logo: '/img/logo.png',
+    logo: '/img/logobxb.png',
 
     navbar: [
       {text: 'Bienvenido', link: '/'},

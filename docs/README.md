@@ -1,18 +1,14 @@
 ---
 home: true
 title: Home
-heroImage: https://vuejs.press/images/hero.png
+heroImage: /img/logobxb.png
 actions:
-  - text: Get Started
-    link: /getting-started.html
+  - text: Documentación
+    link: /guide/get-started.html
     type: primary
 
-  - text: Introduction
-    link: https://vuejs.press/guide/introduction.html
-    type: secondary
-
 features:
-  - title: Simplicity First
+  - title: Simplicidad Primero
     details: Minimal setup with markdown-centered project structure helps you focus on writing.
   - title: Vue-Powered
     details: Enjoy the dev experience of Vue, use Vue components in markdown, and develop custom themes with Vue.
@@ -25,7 +21,7 @@ features:
   - title: Bundlers
     details: Default bundler is Vite, while Webpack is also supported. Choose the one you like!
 
-footer: MIT Licensed | Copyright © 2018-present VuePress Community
+footer: Copyright © 2024-present Byte x Byte
 ---
 
 This is the content of home page. Check [Home Page Docs][default-theme-home] for more details.
