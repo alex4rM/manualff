@@ -5,7 +5,7 @@ import { viteBundler } from '@vuepress/bundler-vite'
 export default defineUserConfig({
   lang: 'es-PE',
 
-  title: 'FasterFacturas',
+  title: 'FasterFacturas - Version X',
   description: 'Manual de usuario para el sistema FasterFacturas',
 
   theme: defaultTheme({
