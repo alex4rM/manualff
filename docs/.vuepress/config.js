@@ -10,6 +10,8 @@ export default defineUserConfig({
 
   theme: defaultTheme({
     logo: '/img/logobxb.png',
+    lastUpdated: true, // Desactiva "Last Updated"
+    contributors: false, // Desactiva "Contributors"
 
     navbar: [
       {text: 'Bienvenido', link: '/'},
